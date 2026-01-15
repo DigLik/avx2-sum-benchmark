@@ -1,0 +1,11 @@
+# C/C++ artifacts
+*.exe
+*.o
+*.out
+*.obj
+
+# .NET artifacts
+bin/
+obj/
+.vs/
+*.user
